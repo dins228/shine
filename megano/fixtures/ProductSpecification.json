@@ -1,0 +1,9038 @@
+[
+{
+    "model": "products.productspecification",
+    "pk": 5,
+    "fields": {
+        "product": 14,
+        "name": "Ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 6,
+    "fields": {
+        "product": 14,
+        "name": "Потоков",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 7,
+    "fields": {
+        "product": 14,
+        "name": "Базовая частота",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 8,
+    "fields": {
+        "product": 14,
+        "name": "Максимальная частота",
+        "value": "4.4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 9,
+    "fields": {
+        "product": 14,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 10,
+    "fields": {
+        "product": 14,
+        "name": "Кеш L2",
+        "value": "1.25 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 11,
+    "fields": {
+        "product": 14,
+        "name": "Кеш L3",
+        "value": "18 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 12,
+    "fields": {
+        "product": 14,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 13,
+    "fields": {
+        "product": 14,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 14,
+    "fields": {
+        "product": 16,
+        "name": "Ядер",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 15,
+    "fields": {
+        "product": 16,
+        "name": "Потоков",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 16,
+    "fields": {
+        "product": 16,
+        "name": "Базовая частота",
+        "value": "3.3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 17,
+    "fields": {
+        "product": 16,
+        "name": "Максимальная частота",
+        "value": "4.3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 18,
+    "fields": {
+        "product": 16,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 19,
+    "fields": {
+        "product": 16,
+        "name": "Кеш L2",
+        "value": "1.25 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 20,
+    "fields": {
+        "product": 16,
+        "name": "Кеш L3",
+        "value": "12 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 21,
+    "fields": {
+        "product": 16,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 22,
+    "fields": {
+        "product": 16,
+        "name": "Энергопотребление (TDP)",
+        "value": "58 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 23,
+    "fields": {
+        "product": 17,
+        "name": "Ядер",
+        "value": "14"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 24,
+    "fields": {
+        "product": 17,
+        "name": "Производительных ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 25,
+    "fields": {
+        "product": 17,
+        "name": "Эффективных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 26,
+    "fields": {
+        "product": 17,
+        "name": "Потоков",
+        "value": "20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 27,
+    "fields": {
+        "product": 17,
+        "name": "Базовая частота",
+        "value": "3,50"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 28,
+    "fields": {
+        "product": 17,
+        "name": "Максимальная частота",
+        "value": "5.3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 29,
+    "fields": {
+        "product": 17,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 30,
+    "fields": {
+        "product": 17,
+        "name": "Кеш L2",
+        "value": "2 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 31,
+    "fields": {
+        "product": 17,
+        "name": "Кеш L3",
+        "value": "24 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 32,
+    "fields": {
+        "product": 17,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 33,
+    "fields": {
+        "product": 17,
+        "name": "Энергопотребление (TDP)",
+        "value": "125 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 34,
+    "fields": {
+        "product": 18,
+        "name": "Ядер",
+        "value": "20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 35,
+    "fields": {
+        "product": 18,
+        "name": "Производительных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 36,
+    "fields": {
+        "product": 18,
+        "name": "Эффективных ядер",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 37,
+    "fields": {
+        "product": 18,
+        "name": "Потоков",
+        "value": "28"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 38,
+    "fields": {
+        "product": 18,
+        "name": "Базовая частота",
+        "value": "3.4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 39,
+    "fields": {
+        "product": 18,
+        "name": "Максимальная частота",
+        "value": "5,60"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 40,
+    "fields": {
+        "product": 18,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 41,
+    "fields": {
+        "product": 18,
+        "name": "Кеш L2",
+        "value": "1.25 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 42,
+    "fields": {
+        "product": 18,
+        "name": "Кеш L3",
+        "value": "33 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 43,
+    "fields": {
+        "product": 18,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 44,
+    "fields": {
+        "product": 18,
+        "name": "Энергопотребление (TDP)",
+        "value": "125 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 45,
+    "fields": {
+        "product": 19,
+        "name": "Ядер",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 46,
+    "fields": {
+        "product": 19,
+        "name": "Производительных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 47,
+    "fields": {
+        "product": 19,
+        "name": "Эффективных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 48,
+    "fields": {
+        "product": 19,
+        "name": "Потоков",
+        "value": "24"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 49,
+    "fields": {
+        "product": 19,
+        "name": "Базовая частота",
+        "value": "3,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 50,
+    "fields": {
+        "product": 19,
+        "name": "Максимальная частота",
+        "value": "5,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 51,
+    "fields": {
+        "product": 19,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 52,
+    "fields": {
+        "product": 19,
+        "name": "Кеш L2",
+        "value": "2 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 53,
+    "fields": {
+        "product": 19,
+        "name": "Кеш L3",
+        "value": "30 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 54,
+    "fields": {
+        "product": 19,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 55,
+    "fields": {
+        "product": 19,
+        "name": "Энергопотребление (TDP)",
+        "value": "125 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 56,
+    "fields": {
+        "product": 20,
+        "name": "Ядер",
+        "value": "10"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 57,
+    "fields": {
+        "product": 20,
+        "name": "Производительных ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 58,
+    "fields": {
+        "product": 20,
+        "name": "Эффективных ядер",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 59,
+    "fields": {
+        "product": 20,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 60,
+    "fields": {
+        "product": 20,
+        "name": "Базовая частота",
+        "value": "3,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 61,
+    "fields": {
+        "product": 20,
+        "name": "Максимальная частота",
+        "value": "4,90"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 62,
+    "fields": {
+        "product": 20,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 63,
+    "fields": {
+        "product": 20,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 64,
+    "fields": {
+        "product": 20,
+        "name": "Кеш L3",
+        "value": "20 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 65,
+    "fields": {
+        "product": 20,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 66,
+    "fields": {
+        "product": 20,
+        "name": "Энергопотребление (TDP)",
+        "value": "125 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 67,
+    "fields": {
+        "product": 21,
+        "name": "Ядер",
+        "value": "10"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 68,
+    "fields": {
+        "product": 21,
+        "name": "Производительных ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 69,
+    "fields": {
+        "product": 21,
+        "name": "Эффективных ядер",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 70,
+    "fields": {
+        "product": 21,
+        "name": "Базовая частота",
+        "value": "2,50"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 71,
+    "fields": {
+        "product": 21,
+        "name": "Максимальная частота",
+        "value": "4,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 72,
+    "fields": {
+        "product": 21,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 73,
+    "fields": {
+        "product": 21,
+        "name": "Кеш L2",
+        "value": "1.25 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 74,
+    "fields": {
+        "product": 21,
+        "name": "Кеш L3",
+        "value": "20 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 75,
+    "fields": {
+        "product": 21,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 76,
+    "fields": {
+        "product": 21,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 77,
+    "fields": {
+        "product": 22,
+        "name": "Ядер",
+        "value": "24"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 78,
+    "fields": {
+        "product": 22,
+        "name": "Производительных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 79,
+    "fields": {
+        "product": 22,
+        "name": "Эффективных ядер",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 80,
+    "fields": {
+        "product": 22,
+        "name": "Потоков",
+        "value": "32"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 81,
+    "fields": {
+        "product": 22,
+        "name": "Базовая частота",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 82,
+    "fields": {
+        "product": 22,
+        "name": "Максимальная частота",
+        "value": "5,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 83,
+    "fields": {
+        "product": 22,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 84,
+    "fields": {
+        "product": 22,
+        "name": "Кеш L2",
+        "value": "2 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 85,
+    "fields": {
+        "product": 22,
+        "name": "Кеш L3",
+        "value": "36 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 86,
+    "fields": {
+        "product": 22,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 87,
+    "fields": {
+        "product": 22,
+        "name": "Энергопотребление (TDP)",
+        "value": "125 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 88,
+    "fields": {
+        "product": 23,
+        "name": "Ядер",
+        "value": "24"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 89,
+    "fields": {
+        "product": 23,
+        "name": "Производительных ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 90,
+    "fields": {
+        "product": 23,
+        "name": "Эффективных ядер",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 91,
+    "fields": {
+        "product": 23,
+        "name": "Потоков",
+        "value": "32"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 92,
+    "fields": {
+        "product": 23,
+        "name": "Базовая частота",
+        "value": "3,20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 93,
+    "fields": {
+        "product": 23,
+        "name": "Максимальная частота",
+        "value": "5,90"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 94,
+    "fields": {
+        "product": 23,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 95,
+    "fields": {
+        "product": 23,
+        "name": "Кеш L2",
+        "value": "2 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 96,
+    "fields": {
+        "product": 23,
+        "name": "Кеш L3",
+        "value": "36 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 97,
+    "fields": {
+        "product": 23,
+        "name": "Технологический процесс",
+        "value": "Intel 7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 98,
+    "fields": {
+        "product": 23,
+        "name": "Энергопотребление (TDP)",
+        "value": "150 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 99,
+    "fields": {
+        "product": 25,
+        "name": "Ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 100,
+    "fields": {
+        "product": 25,
+        "name": "Потоков",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 101,
+    "fields": {
+        "product": 25,
+        "name": "Базовая частота",
+        "value": "3,50"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 102,
+    "fields": {
+        "product": 25,
+        "name": "Максимальная частота",
+        "value": "4,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 103,
+    "fields": {
+        "product": 25,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 104,
+    "fields": {
+        "product": 25,
+        "name": "Кеш L2",
+        "value": "512 K"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 105,
+    "fields": {
+        "product": 25,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 106,
+    "fields": {
+        "product": 25,
+        "name": "Технологический процесс",
+        "value": "7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 107,
+    "fields": {
+        "product": 25,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 108,
+    "fields": {
+        "product": 27,
+        "name": "Ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 109,
+    "fields": {
+        "product": 27,
+        "name": "Потоков",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 110,
+    "fields": {
+        "product": 27,
+        "name": "Базовая частота",
+        "value": "3,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 111,
+    "fields": {
+        "product": 27,
+        "name": "Максимальная частота",
+        "value": "5,05"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 112,
+    "fields": {
+        "product": 27,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 113,
+    "fields": {
+        "product": 27,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 114,
+    "fields": {
+        "product": 27,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 115,
+    "fields": {
+        "product": 27,
+        "name": "Технологический процесс",
+        "value": "5 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 116,
+    "fields": {
+        "product": 27,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 117,
+    "fields": {
+        "product": 28,
+        "name": "Ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 118,
+    "fields": {
+        "product": 28,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 119,
+    "fields": {
+        "product": 28,
+        "name": "Базовая частота",
+        "value": "4,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 120,
+    "fields": {
+        "product": 28,
+        "name": "Максимальная частота",
+        "value": "5,00"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 121,
+    "fields": {
+        "product": 28,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 122,
+    "fields": {
+        "product": 28,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 123,
+    "fields": {
+        "product": 28,
+        "name": "Кеш L3",
+        "value": "96 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 124,
+    "fields": {
+        "product": 28,
+        "name": "Технологический процесс",
+        "value": "5 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 125,
+    "fields": {
+        "product": 28,
+        "name": "Энергопотребление (TDP)",
+        "value": "120 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 126,
+    "fields": {
+        "product": 29,
+        "name": "Ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 127,
+    "fields": {
+        "product": 29,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 128,
+    "fields": {
+        "product": 29,
+        "name": "Базовая частота",
+        "value": "3,80"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 129,
+    "fields": {
+        "product": 29,
+        "name": "Максимальная частота",
+        "value": "5,30"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 130,
+    "fields": {
+        "product": 29,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 131,
+    "fields": {
+        "product": 29,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 132,
+    "fields": {
+        "product": 29,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 133,
+    "fields": {
+        "product": 29,
+        "name": "Технологический процесс",
+        "value": "5 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 134,
+    "fields": {
+        "product": 29,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 135,
+    "fields": {
+        "product": 30,
+        "name": "Ядер",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 136,
+    "fields": {
+        "product": 30,
+        "name": "Потоков",
+        "value": "32"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 137,
+    "fields": {
+        "product": 30,
+        "name": "Базовая частота",
+        "value": "4,30"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 138,
+    "fields": {
+        "product": 30,
+        "name": "Максимальная частота",
+        "value": "5,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 139,
+    "fields": {
+        "product": 30,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 140,
+    "fields": {
+        "product": 30,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 141,
+    "fields": {
+        "product": 30,
+        "name": "Кеш L3",
+        "value": "64 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 142,
+    "fields": {
+        "product": 30,
+        "name": "Технологический процесс",
+        "value": "4 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 143,
+    "fields": {
+        "product": 30,
+        "name": "Энергопотребление (TDP)",
+        "value": "170 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 144,
+    "fields": {
+        "product": 31,
+        "name": "Ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 145,
+    "fields": {
+        "product": 31,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 146,
+    "fields": {
+        "product": 31,
+        "name": "Базовая частота",
+        "value": "3,80"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 147,
+    "fields": {
+        "product": 31,
+        "name": "Максимальная частота",
+        "value": "5,50"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 148,
+    "fields": {
+        "product": 31,
+        "name": "Кеш L1",
+        "value": "80 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 149,
+    "fields": {
+        "product": 31,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 150,
+    "fields": {
+        "product": 31,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 151,
+    "fields": {
+        "product": 31,
+        "name": "Технологический процесс",
+        "value": "4 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 152,
+    "fields": {
+        "product": 31,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 153,
+    "fields": {
+        "product": 32,
+        "name": "Ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 154,
+    "fields": {
+        "product": 32,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 155,
+    "fields": {
+        "product": 32,
+        "name": "Базовая частота",
+        "value": "3,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 156,
+    "fields": {
+        "product": 32,
+        "name": "Максимальная частота",
+        "value": "4,60"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 157,
+    "fields": {
+        "product": 32,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 158,
+    "fields": {
+        "product": 32,
+        "name": "Кеш L2",
+        "value": "512 K"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 159,
+    "fields": {
+        "product": 32,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 160,
+    "fields": {
+        "product": 32,
+        "name": "Технологический процесс",
+        "value": "7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 161,
+    "fields": {
+        "product": 32,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 162,
+    "fields": {
+        "product": 33,
+        "name": "Ядер",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 163,
+    "fields": {
+        "product": 33,
+        "name": "Потоков",
+        "value": "32"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 164,
+    "fields": {
+        "product": 33,
+        "name": "Базовая частота",
+        "value": "4,20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 165,
+    "fields": {
+        "product": 33,
+        "name": "Максимальная частота",
+        "value": "5,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 166,
+    "fields": {
+        "product": 33,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 167,
+    "fields": {
+        "product": 33,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 168,
+    "fields": {
+        "product": 33,
+        "name": "Кеш L3",
+        "value": "128 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 169,
+    "fields": {
+        "product": 33,
+        "name": "Технологический процесс",
+        "value": "5 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 170,
+    "fields": {
+        "product": 33,
+        "name": "Энергопотребление (TDP)",
+        "value": "120 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 171,
+    "fields": {
+        "product": 34,
+        "name": "Ядер",
+        "value": "8"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 172,
+    "fields": {
+        "product": 34,
+        "name": "Потоков",
+        "value": "16"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 173,
+    "fields": {
+        "product": 34,
+        "name": "Базовая частота",
+        "value": "3,40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 174,
+    "fields": {
+        "product": 34,
+        "name": "Максимальная частота",
+        "value": "4,50"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 175,
+    "fields": {
+        "product": 34,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 176,
+    "fields": {
+        "product": 34,
+        "name": "Кеш L2",
+        "value": "512 K"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 177,
+    "fields": {
+        "product": 34,
+        "name": "Кеш L3",
+        "value": "96 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 178,
+    "fields": {
+        "product": 34,
+        "name": "Технологический процесс",
+        "value": "7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 179,
+    "fields": {
+        "product": 34,
+        "name": "Энергопотребление (TDP)",
+        "value": "105 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 180,
+    "fields": {
+        "product": 35,
+        "name": "Ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 181,
+    "fields": {
+        "product": 35,
+        "name": "Потоков",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 182,
+    "fields": {
+        "product": 35,
+        "name": "Базовая частота",
+        "value": "4,70"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 183,
+    "fields": {
+        "product": 35,
+        "name": "Максимальная частота",
+        "value": "5,30"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 184,
+    "fields": {
+        "product": 35,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 185,
+    "fields": {
+        "product": 35,
+        "name": "Кеш L2",
+        "value": "1 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 186,
+    "fields": {
+        "product": 35,
+        "name": "Кеш L3",
+        "value": "32 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 187,
+    "fields": {
+        "product": 35,
+        "name": "Технологический процесс",
+        "value": "5 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 188,
+    "fields": {
+        "product": 35,
+        "name": "Энергопотребление (TDP)",
+        "value": "105 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 189,
+    "fields": {
+        "product": 36,
+        "name": "Ядер",
+        "value": "6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 190,
+    "fields": {
+        "product": 36,
+        "name": "Потоков",
+        "value": "12"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 191,
+    "fields": {
+        "product": 36,
+        "name": "Базовая частота",
+        "value": "3,60"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 192,
+    "fields": {
+        "product": 36,
+        "name": "Максимальная частота",
+        "value": "4,20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 193,
+    "fields": {
+        "product": 36,
+        "name": "Кеш L1",
+        "value": "64 К"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 194,
+    "fields": {
+        "product": 36,
+        "name": "Кеш L2",
+        "value": "512 K"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 195,
+    "fields": {
+        "product": 36,
+        "name": "Кеш L3",
+        "value": "16 МБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 196,
+    "fields": {
+        "product": 36,
+        "name": "Технологический процесс",
+        "value": "7 нм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 197,
+    "fields": {
+        "product": 36,
+        "name": "Энергопотребление (TDP)",
+        "value": "65 BT"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 198,
+    "fields": {
+        "product": 38,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 199,
+    "fields": {
+        "product": 38,
+        "name": "Сокет",
+        "value": "LGA 1700"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 200,
+    "fields": {
+        "product": 38,
+        "name": "Чипсет",
+        "value": "Intel B760"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 201,
+    "fields": {
+        "product": 38,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 202,
+    "fields": {
+        "product": 38,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 203,
+    "fields": {
+        "product": 38,
+        "name": "Слоты расширения",
+        "value": "2 x PCI-E 4.0 x16, 3 x PCI-E 3.0 x16, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 204,
+    "fields": {
+        "product": 38,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 4 x USB 2.0, 2 x USB 3.2 Gen2, USB 3.2 Gen2 Type-C, HDMI, DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 205,
+    "fields": {
+        "product": 38,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с), Wi-Fi, Bluetooth"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 206,
+    "fields": {
+        "product": 38,
+        "name": "Количество фаз питания",
+        "value": "12+1+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 207,
+    "fields": {
+        "product": 38,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 208,
+    "fields": {
+        "product": 38,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 209,
+    "fields": {
+        "product": 38,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 210,
+    "fields": {
+        "product": 39,
+        "name": "Форм-фактор",
+        "value": "mATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 211,
+    "fields": {
+        "product": 39,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 212,
+    "fields": {
+        "product": 39,
+        "name": "Чипсет",
+        "value": "AMD B650"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 213,
+    "fields": {
+        "product": 39,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 214,
+    "fields": {
+        "product": 39,
+        "name": "Количество слотов памяти",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 215,
+    "fields": {
+        "product": 39,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, PCI-E 3.0 x1, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 216,
+    "fields": {
+        "product": 39,
+        "name": "Разъёмы на задней панели",
+        "value": "4 x USB 2.0, 2 x USB 3.2 Gen1, HDMI, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 217,
+    "fields": {
+        "product": 39,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 218,
+    "fields": {
+        "product": 39,
+        "name": "Количество фаз питания",
+        "value": "6+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 219,
+    "fields": {
+        "product": 39,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 220,
+    "fields": {
+        "product": 39,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 221,
+    "fields": {
+        "product": 39,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 222,
+    "fields": {
+        "product": 40,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 223,
+    "fields": {
+        "product": 40,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 224,
+    "fields": {
+        "product": 40,
+        "name": "Чипсет",
+        "value": "AMD B840"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 225,
+    "fields": {
+        "product": 40,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 226,
+    "fields": {
+        "product": 40,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 227,
+    "fields": {
+        "product": 40,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, 4 x PCI-E 3.0 x16, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 228,
+    "fields": {
+        "product": 40,
+        "name": "Разъёмы на задней панели",
+        "value": "4 x USB 2.0, 2 x USB 3.2 Gen1, USB 3.2 Gen2, USB 3.2 Gen2 Type-C, HDMI, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 229,
+    "fields": {
+        "product": 40,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с), Wi-Fi, Bluetooth"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 230,
+    "fields": {
+        "product": 40,
+        "name": "Количество фаз питания",
+        "value": "7+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 231,
+    "fields": {
+        "product": 40,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 232,
+    "fields": {
+        "product": 40,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 233,
+    "fields": {
+        "product": 40,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 234,
+    "fields": {
+        "product": 41,
+        "name": "Форм-фактор",
+        "value": "mATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 235,
+    "fields": {
+        "product": 41,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 236,
+    "fields": {
+        "product": 41,
+        "name": "Чипсет",
+        "value": "AMD B650"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 237,
+    "fields": {
+        "product": 41,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 238,
+    "fields": {
+        "product": 41,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 239,
+    "fields": {
+        "product": 41,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, 2 x PCI-E x1, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 240,
+    "fields": {
+        "product": 41,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 4 x USB 2.0, 2 x USB 3.2 Gen1, 2 x USB 3.2 Gen2, VGA, HDMI, DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 241,
+    "fields": {
+        "product": 41,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 242,
+    "fields": {
+        "product": 41,
+        "name": "Количество фаз питания",
+        "value": "6+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 243,
+    "fields": {
+        "product": 41,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen2 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 244,
+    "fields": {
+        "product": 41,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 245,
+    "fields": {
+        "product": 41,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 246,
+    "fields": {
+        "product": 42,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 247,
+    "fields": {
+        "product": 42,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 248,
+    "fields": {
+        "product": 42,
+        "name": "Чипсет",
+        "value": "AMD B650"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 249,
+    "fields": {
+        "product": 42,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 250,
+    "fields": {
+        "product": 42,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 251,
+    "fields": {
+        "product": 42,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, 2 x PCI-E 3.0 x16, 3 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 252,
+    "fields": {
+        "product": 42,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 3 x USB 2.0, 3 x USB 3.2 Gen1, USB 3.2 Gen2, USB 3.2 Gen2 Type-C, HDMI, DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 253,
+    "fields": {
+        "product": 42,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с), Wi-Fi, Bluetooth"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 254,
+    "fields": {
+        "product": 42,
+        "name": "Количество фаз питания",
+        "value": "8+2+2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 255,
+    "fields": {
+        "product": 42,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen2x2 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 256,
+    "fields": {
+        "product": 42,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 257,
+    "fields": {
+        "product": 42,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 258,
+    "fields": {
+        "product": 43,
+        "name": "Форм-фактор",
+        "value": "mATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 259,
+    "fields": {
+        "product": 43,
+        "name": "Сокет",
+        "value": "LGA 1700"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 260,
+    "fields": {
+        "product": 43,
+        "name": "Чипсет",
+        "value": "Intel B760"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 261,
+    "fields": {
+        "product": 43,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 262,
+    "fields": {
+        "product": 43,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 263,
+    "fields": {
+        "product": 43,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, 2 x PCI-E x1, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 264,
+    "fields": {
+        "product": 43,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 2 x USB 2.0, 3 x USB 3.2 Gen1, USB 3.2 Gen2 Type-C, VGA, HDMI, 2 x DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 265,
+    "fields": {
+        "product": 43,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 266,
+    "fields": {
+        "product": 43,
+        "name": "Количество фаз питания",
+        "value": "6+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 267,
+    "fields": {
+        "product": 43,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 268,
+    "fields": {
+        "product": 43,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 269,
+    "fields": {
+        "product": 43,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 270,
+    "fields": {
+        "product": 44,
+        "name": "Форм-фактор",
+        "value": "mATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 271,
+    "fields": {
+        "product": 44,
+        "name": "Сокет",
+        "value": "LGA 1700"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 272,
+    "fields": {
+        "product": 44,
+        "name": "Чипсет",
+        "value": "Intel H610"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 273,
+    "fields": {
+        "product": 44,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 274,
+    "fields": {
+        "product": 44,
+        "name": "Количество слотов памяти",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 275,
+    "fields": {
+        "product": 44,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, PCI-E x1, PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 276,
+    "fields": {
+        "product": 44,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 4 x USB 2.0, 2 x USB 3.2 Gen1, VGA, HDMI, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 277,
+    "fields": {
+        "product": 44,
+        "name": "Сетевой интерфейс",
+        "value": "Gigabit Ethernet (1 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 278,
+    "fields": {
+        "product": 44,
+        "name": "Количество фаз питания",
+        "value": "4+2+2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 279,
+    "fields": {
+        "product": 44,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 280,
+    "fields": {
+        "product": 44,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 281,
+    "fields": {
+        "product": 44,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 282,
+    "fields": {
+        "product": 45,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 283,
+    "fields": {
+        "product": 45,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 284,
+    "fields": {
+        "product": 45,
+        "name": "Чипсет",
+        "value": "AMD B650"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 285,
+    "fields": {
+        "product": 45,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 286,
+    "fields": {
+        "product": 45,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 287,
+    "fields": {
+        "product": 45,
+        "name": "Слоты расширения",
+        "value": "2 x PCI-E 4.0 x16, 2 x PCI-E x1, 3 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 288,
+    "fields": {
+        "product": 45,
+        "name": "Разъёмы на задней панели",
+        "value": "4 x USB 2.0, 2 x USB 3.2 Gen2, USB 3.2 Gen2 Type-C, USB 3.2 Gen2x2 Type-C, HDMI, DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 289,
+    "fields": {
+        "product": 45,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 290,
+    "fields": {
+        "product": 45,
+        "name": "Количество фаз питания",
+        "value": "2x6+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 291,
+    "fields": {
+        "product": 45,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 292,
+    "fields": {
+        "product": 45,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 293,
+    "fields": {
+        "product": 45,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 294,
+    "fields": {
+        "product": 46,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 295,
+    "fields": {
+        "product": 46,
+        "name": "Сокет",
+        "value": "AM4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 296,
+    "fields": {
+        "product": 46,
+        "name": "Чипсет",
+        "value": "AMD B550"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 297,
+    "fields": {
+        "product": 46,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 298,
+    "fields": {
+        "product": 46,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 299,
+    "fields": {
+        "product": 46,
+        "name": "Слоты расширения",
+        "value": "PCI-E 4.0 x16, PCI-E 3.0 x16, 2 x PCI-E x1, 2 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 300,
+    "fields": {
+        "product": 46,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 4 x USB 2.0, 2 x USB 3.2 Gen2, USB 3.2 Gen2x2, USB 3.2 Gen2 Type-C, HDMI, DisplayPort, RJ-45, S/PDIF (оптический)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 301,
+    "fields": {
+        "product": 46,
+        "name": "Сетевой интерфейс",
+        "value": "Gigabit Ethernet (1 Гбит/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 302,
+    "fields": {
+        "product": 46,
+        "name": "Количество фаз питания",
+        "value": "4+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 303,
+    "fields": {
+        "product": 46,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen1 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 304,
+    "fields": {
+        "product": 46,
+        "name": "Контроллер SATA",
+        "value": "6 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 305,
+    "fields": {
+        "product": 46,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 306,
+    "fields": {
+        "product": 47,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 307,
+    "fields": {
+        "product": 47,
+        "name": "Сокет",
+        "value": "LGA 1700"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 308,
+    "fields": {
+        "product": 47,
+        "name": "Чипсет",
+        "value": "Intel Z790"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 309,
+    "fields": {
+        "product": 47,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 310,
+    "fields": {
+        "product": 47,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 311,
+    "fields": {
+        "product": 47,
+        "name": "Слоты расширения",
+        "value": "PCI-E 5.0 x16, PCI-E 4.0 x16, PCI-E 3.0 x16, PCI-E x1, 4 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 312,
+    "fields": {
+        "product": 47,
+        "name": "Разъёмы на задней панели",
+        "value": "PS/2, 4 x USB 2.0, 2 x USB 3.2 Gen1, USB 3.2 Gen2, USB 3.2 Gen2x2 Type-C, HDMI, DisplayPort, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 313,
+    "fields": {
+        "product": 47,
+        "name": "Сетевой интерфейс",
+        "value": "2.5 Gigabit Ethernet (2.5 Гбит/с), Wi-Fi, Bluetooth"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 314,
+    "fields": {
+        "product": 47,
+        "name": "Количество фаз питания",
+        "value": "14+1+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 315,
+    "fields": {
+        "product": 47,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, 2 x USB 3.2 Gen1, USB 3.2 Gen2 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 316,
+    "fields": {
+        "product": 47,
+        "name": "Контроллер SATA",
+        "value": "6 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 317,
+    "fields": {
+        "product": 47,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 318,
+    "fields": {
+        "product": 48,
+        "name": "Форм-фактор",
+        "value": "ATX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 319,
+    "fields": {
+        "product": 48,
+        "name": "Сокет",
+        "value": "AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 320,
+    "fields": {
+        "product": 48,
+        "name": "Чипсет",
+        "value": "AMD X870"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 321,
+    "fields": {
+        "product": 48,
+        "name": "Тип поддерживаемой памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 322,
+    "fields": {
+        "product": 48,
+        "name": "Количество слотов памяти",
+        "value": "4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 323,
+    "fields": {
+        "product": 48,
+        "name": "Слоты расширения",
+        "value": "PCI-E 5.0 x16, PCI-E 4.0 x16, 2 x PCI-E 3.0 x16, 3 x PCI-E M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 324,
+    "fields": {
+        "product": 48,
+        "name": "Разъёмы на задней панели",
+        "value": "4 x USB 2.0, 2 x USB 3.2 Gen1, 2 x USB 3.2 Gen2, USB 3.2 Gen2x2 Type-C, USB 4 Type-C, HDMI, RJ-45"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 325,
+    "fields": {
+        "product": 48,
+        "name": "Сетевой интерфейс",
+        "value": "5 Gigabit Ethernet (5 Гбит/с), Wi-Fi, Bluetooth"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 326,
+    "fields": {
+        "product": 48,
+        "name": "Количество фаз питания",
+        "value": "2x7+2+1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 327,
+    "fields": {
+        "product": 48,
+        "name": "Внутренние порты USB на плате",
+        "value": "2 x USB 2.0, USB 3.2 Gen1, USB 3.2 Gen2 Type-C"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 328,
+    "fields": {
+        "product": 48,
+        "name": "Контроллер SATA",
+        "value": "4 x SATA-III (6 Гб/с)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 329,
+    "fields": {
+        "product": 48,
+        "name": "Звук",
+        "value": "8-канальный (7.1)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 497,
+    "fields": {
+        "product": 49,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 498,
+    "fields": {
+        "product": 50,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 499,
+    "fields": {
+        "product": 51,
+        "name": "Объём памяти",
+        "value": "16 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 500,
+    "fields": {
+        "product": 52,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 501,
+    "fields": {
+        "product": 53,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 502,
+    "fields": {
+        "product": 54,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 503,
+    "fields": {
+        "product": 55,
+        "name": "Объём памяти",
+        "value": "64 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 504,
+    "fields": {
+        "product": 56,
+        "name": "Объём памяти",
+        "value": "16 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 505,
+    "fields": {
+        "product": 57,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 506,
+    "fields": {
+        "product": 58,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 507,
+    "fields": {
+        "product": 59,
+        "name": "Объём памяти",
+        "value": "32 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 508,
+    "fields": {
+        "product": 49,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 509,
+    "fields": {
+        "product": 50,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 510,
+    "fields": {
+        "product": 51,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 511,
+    "fields": {
+        "product": 52,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 512,
+    "fields": {
+        "product": 53,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 513,
+    "fields": {
+        "product": 54,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 514,
+    "fields": {
+        "product": 55,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 515,
+    "fields": {
+        "product": 56,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 516,
+    "fields": {
+        "product": 57,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 517,
+    "fields": {
+        "product": 58,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 518,
+    "fields": {
+        "product": 59,
+        "name": "Количество модулей в комплекте",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 519,
+    "fields": {
+        "product": 49,
+        "name": "Тип памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 520,
+    "fields": {
+        "product": 50,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 521,
+    "fields": {
+        "product": 51,
+        "name": "Тип памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 522,
+    "fields": {
+        "product": 52,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 523,
+    "fields": {
+        "product": 53,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 524,
+    "fields": {
+        "product": 54,
+        "name": "Тип памяти",
+        "value": "DDR4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 525,
+    "fields": {
+        "product": 55,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 526,
+    "fields": {
+        "product": 56,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 527,
+    "fields": {
+        "product": 57,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 528,
+    "fields": {
+        "product": 58,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 529,
+    "fields": {
+        "product": 59,
+        "name": "Тип памяти",
+        "value": "DDR5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 530,
+    "fields": {
+        "product": 49,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 25600 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 531,
+    "fields": {
+        "product": 50,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 44800 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 532,
+    "fields": {
+        "product": 51,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 25600 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 533,
+    "fields": {
+        "product": 52,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 48000 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 534,
+    "fields": {
+        "product": 53,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 41600 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 535,
+    "fields": {
+        "product": 54,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 25600 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 536,
+    "fields": {
+        "product": 55,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 44800 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 537,
+    "fields": {
+        "product": 56,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 44800 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 538,
+    "fields": {
+        "product": 57,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 44800 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 539,
+    "fields": {
+        "product": 58,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 48000 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 540,
+    "fields": {
+        "product": 59,
+        "name": "Пропускная способность",
+        "value": "Пропускная способность: 48000 Мб/с"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 541,
+    "fields": {
+        "product": 49,
+        "name": "Xmp-timings",
+        "value": "16-18-18"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 542,
+    "fields": {
+        "product": 50,
+        "name": "Xmp-timings",
+        "value": "36-38-38"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 543,
+    "fields": {
+        "product": 51,
+        "name": "Xmp-timings",
+        "value": "16-18-18"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 544,
+    "fields": {
+        "product": 52,
+        "name": "Xmp-timings",
+        "value": "30-40-40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 545,
+    "fields": {
+        "product": 53,
+        "name": "Xmp-timings",
+        "value": "40-40-40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 546,
+    "fields": {
+        "product": 54,
+        "name": "Xmp-timings",
+        "value": "16-20-20"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 547,
+    "fields": {
+        "product": 55,
+        "name": "Xmp-timings",
+        "value": "40-40-40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 548,
+    "fields": {
+        "product": 56,
+        "name": "Xmp-timings",
+        "value": "40-40-40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 549,
+    "fields": {
+        "product": 57,
+        "name": "Xmp-timings",
+        "value": "40-40-40"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 550,
+    "fields": {
+        "product": 58,
+        "name": "Xmp-timings",
+        "value": "36-44-44"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 551,
+    "fields": {
+        "product": 59,
+        "name": "Xmp-timings",
+        "value": "34-38-38"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 552,
+    "fields": {
+        "product": 49,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 553,
+    "fields": {
+        "product": 50,
+        "name": "Напряжение питания",
+        "value": "1.25 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 554,
+    "fields": {
+        "product": 51,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 555,
+    "fields": {
+        "product": 52,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 556,
+    "fields": {
+        "product": 53,
+        "name": "Напряжение питания",
+        "value": "1.25 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 557,
+    "fields": {
+        "product": 54,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 558,
+    "fields": {
+        "product": 55,
+        "name": "Напряжение питания",
+        "value": "1.25 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 559,
+    "fields": {
+        "product": 56,
+        "name": "Напряжение питания",
+        "value": "1.25 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 560,
+    "fields": {
+        "product": 57,
+        "name": "Напряжение питания",
+        "value": "1.25 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 561,
+    "fields": {
+        "product": 58,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 562,
+    "fields": {
+        "product": 59,
+        "name": "Напряжение питания",
+        "value": "1.35 В"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 563,
+    "fields": {
+        "product": 49,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 564,
+    "fields": {
+        "product": 50,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 565,
+    "fields": {
+        "product": 51,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 566,
+    "fields": {
+        "product": 52,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 567,
+    "fields": {
+        "product": 53,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 568,
+    "fields": {
+        "product": 54,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 569,
+    "fields": {
+        "product": 55,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 570,
+    "fields": {
+        "product": 56,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 571,
+    "fields": {
+        "product": 57,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 572,
+    "fields": {
+        "product": 58,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 573,
+    "fields": {
+        "product": 59,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 574,
+    "fields": {
+        "product": 60,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 575,
+    "fields": {
+        "product": 61,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 576,
+    "fields": {
+        "product": 62,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 577,
+    "fields": {
+        "product": 63,
+        "name": "Интерфейс:",
+        "value": "PCI Express 5.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 578,
+    "fields": {
+        "product": 64,
+        "name": "Интерфейс:",
+        "value": "PCI Express 5.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 579,
+    "fields": {
+        "product": 67,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 580,
+    "fields": {
+        "product": 68,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 581,
+    "fields": {
+        "product": 66,
+        "name": "Интерфейс:",
+        "value": "PCI Express 5.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 582,
+    "fields": {
+        "product": 69,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 583,
+    "fields": {
+        "product": 70,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 584,
+    "fields": {
+        "product": 60,
+        "name": "Частота графического процессора:",
+        "value": "1830 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 585,
+    "fields": {
+        "product": 61,
+        "name": "Частота графического процессора:",
+        "value": "1320 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 586,
+    "fields": {
+        "product": 62,
+        "name": "Частота графического процессора:",
+        "value": "1920 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 587,
+    "fields": {
+        "product": 63,
+        "name": "Частота графического процессора:",
+        "value": "2295 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 588,
+    "fields": {
+        "product": 64,
+        "name": "Частота графического процессора:",
+        "value": "2325 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 589,
+    "fields": {
+        "product": 67,
+        "name": "Частота графического процессора:",
+        "value": "2254 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 590,
+    "fields": {
+        "product": 68,
+        "name": "Частота графического процессора:",
+        "value": "2171 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 591,
+    "fields": {
+        "product": 66,
+        "name": "Частота графического процессора:",
+        "value": "2300 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 592,
+    "fields": {
+        "product": 69,
+        "name": "Частота графического процессора:",
+        "value": "2226 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 593,
+    "fields": {
+        "product": 70,
+        "name": "Частота графического процессора:",
+        "value": "2670 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 594,
+    "fields": {
+        "product": 60,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2505 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 595,
+    "fields": {
+        "product": 61,
+        "name": "Частота графического процессора (Boost):",
+        "value": "1837 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 596,
+    "fields": {
+        "product": 62,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2490 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 597,
+    "fields": {
+        "product": 63,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2730 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 598,
+    "fields": {
+        "product": 64,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2512 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 599,
+    "fields": {
+        "product": 67,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2565 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 600,
+    "fields": {
+        "product": 68,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2544 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 601,
+    "fields": {
+        "product": 66,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2497 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 602,
+    "fields": {
+        "product": 69,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2584 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 603,
+    "fields": {
+        "product": 70,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2850 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 604,
+    "fields": {
+        "product": 60,
+        "name": "Объём памяти:",
+        "value": "8 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 605,
+    "fields": {
+        "product": 61,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 606,
+    "fields": {
+        "product": 62,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 607,
+    "fields": {
+        "product": 63,
+        "name": "Объём памяти:",
+        "value": "16 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 608,
+    "fields": {
+        "product": 64,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 609,
+    "fields": {
+        "product": 67,
+        "name": "Объём памяти:",
+        "value": "16 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 610,
+    "fields": {
+        "product": 68,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 611,
+    "fields": {
+        "product": 66,
+        "name": "Объём памяти:",
+        "value": "16 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 612,
+    "fields": {
+        "product": 69,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 613,
+    "fields": {
+        "product": 70,
+        "name": "Объём памяти:",
+        "value": "12 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 614,
+    "fields": {
+        "product": 60,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 615,
+    "fields": {
+        "product": 61,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 616,
+    "fields": {
+        "product": 62,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 617,
+    "fields": {
+        "product": 63,
+        "name": "Тип памяти:",
+        "value": "GDDR7"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 618,
+    "fields": {
+        "product": 64,
+        "name": "Тип памяти:",
+        "value": "GDDR7"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 619,
+    "fields": {
+        "product": 67,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 620,
+    "fields": {
+        "product": 68,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 621,
+    "fields": {
+        "product": 66,
+        "name": "Тип памяти:",
+        "value": "GDDR7"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 622,
+    "fields": {
+        "product": 69,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 623,
+    "fields": {
+        "product": 70,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 624,
+    "fields": {
+        "product": 60,
+        "name": "Частота видеопамяти:",
+        "value": "1700 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 625,
+    "fields": {
+        "product": 61,
+        "name": "Частота видеопамяти:",
+        "value": "1500 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 626,
+    "fields": {
+        "product": 62,
+        "name": "Частота видеопамяти:",
+        "value": "2000 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 627,
+    "fields": {
+        "product": 63,
+        "name": "Частота видеопамяти:",
+        "value": "3000 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 628,
+    "fields": {
+        "product": 64,
+        "name": "Частота видеопамяти:",
+        "value": "2800 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 629,
+    "fields": {
+        "product": 67,
+        "name": "Частота видеопамяти:",
+        "value": "1940 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 630,
+    "fields": {
+        "product": 68,
+        "name": "Частота видеопамяти:",
+        "value": "1800 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 631,
+    "fields": {
+        "product": 66,
+        "name": "Частота видеопамяти:",
+        "value": "2800 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 632,
+    "fields": {
+        "product": 69,
+        "name": "Частота видеопамяти:",
+        "value": "1800 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 633,
+    "fields": {
+        "product": 70,
+        "name": "Частота видеопамяти:",
+        "value": "1900 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 634,
+    "fields": {
+        "product": 60,
+        "name": "Шина памяти:",
+        "value": "128 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 635,
+    "fields": {
+        "product": 61,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 636,
+    "fields": {
+        "product": 62,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 637,
+    "fields": {
+        "product": 63,
+        "name": "Шина памяти:",
+        "value": "256 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 638,
+    "fields": {
+        "product": 64,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 639,
+    "fields": {
+        "product": 67,
+        "name": "Шина памяти:",
+        "value": "256 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 640,
+    "fields": {
+        "product": 68,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 641,
+    "fields": {
+        "product": 66,
+        "name": "Шина памяти:",
+        "value": "256 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 642,
+    "fields": {
+        "product": 69,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 643,
+    "fields": {
+        "product": 70,
+        "name": "Шина памяти:",
+        "value": "192 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 644,
+    "fields": {
+        "product": 60,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 645,
+    "fields": {
+        "product": 61,
+        "name": "Разъёмы:",
+        "value": "2 x HDMI, 2 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 646,
+    "fields": {
+        "product": 62,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 647,
+    "fields": {
+        "product": 63,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 648,
+    "fields": {
+        "product": 64,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 649,
+    "fields": {
+        "product": 67,
+        "name": "Разъёмы:",
+        "value": "2 x HDMI, 2 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 650,
+    "fields": {
+        "product": 68,
+        "name": "Разъёмы:",
+        "value": "2 x HDMI, 2 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 651,
+    "fields": {
+        "product": 66,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 652,
+    "fields": {
+        "product": 69,
+        "name": "Разъёмы:",
+        "value": "2 x HDMI, 2 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 653,
+    "fields": {
+        "product": 70,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 654,
+    "fields": {
+        "product": 60,
+        "name": "Длина:",
+        "value": "199 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 655,
+    "fields": {
+        "product": 61,
+        "name": "Длина:",
+        "value": "282 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 656,
+    "fields": {
+        "product": 62,
+        "name": "Длина:",
+        "value": "201 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 657,
+    "fields": {
+        "product": 63,
+        "name": "Длина:",
+        "value": "348 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 658,
+    "fields": {
+        "product": 64,
+        "name": "Длина:",
+        "value": "292 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 659,
+    "fields": {
+        "product": 67,
+        "name": "Длина:",
+        "value": "320 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 660,
+    "fields": {
+        "product": 68,
+        "name": "Длина:",
+        "value": "280 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 661,
+    "fields": {
+        "product": 66,
+        "name": "Длина:",
+        "value": "304 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 662,
+    "fields": {
+        "product": 69,
+        "name": "Длина:",
+        "value": "320 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 663,
+    "fields": {
+        "product": 70,
+        "name": "Длина:",
+        "value": "241 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 673,
+    "fields": {
+        "product": 65,
+        "name": "Интерфейс:",
+        "value": "PCI Express 4.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 674,
+    "fields": {
+        "product": 65,
+        "name": "Частота графического процессора:",
+        "value": "2310 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 675,
+    "fields": {
+        "product": 65,
+        "name": "Частота графического процессора (Boost):",
+        "value": "2655 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 676,
+    "fields": {
+        "product": 65,
+        "name": "Объём памяти:",
+        "value": "8 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 677,
+    "fields": {
+        "product": 65,
+        "name": "Тип памяти:",
+        "value": "GDDR6"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 678,
+    "fields": {
+        "product": 65,
+        "name": "Частота видеопамяти:",
+        "value": "1800 МГц"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 679,
+    "fields": {
+        "product": 65,
+        "name": "Шина памяти:",
+        "value": "128 бит"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 680,
+    "fields": {
+        "product": 65,
+        "name": "Разъёмы:",
+        "value": "HDMI, 3 x DisplayPort"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 681,
+    "fields": {
+        "product": 65,
+        "name": "Длина:",
+        "value": "247 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 682,
+    "fields": {
+        "product": 71,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 683,
+    "fields": {
+        "product": 72,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 684,
+    "fields": {
+        "product": 73,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 685,
+    "fields": {
+        "product": 74,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 686,
+    "fields": {
+        "product": 75,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 687,
+    "fields": {
+        "product": 76,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 688,
+    "fields": {
+        "product": 77,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 689,
+    "fields": {
+        "product": 78,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 690,
+    "fields": {
+        "product": 79,
+        "name": "Тип:",
+        "value": "SSD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 691,
+    "fields": {
+        "product": 80,
+        "name": "Тип:",
+        "value": "HDD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 692,
+    "fields": {
+        "product": 81,
+        "name": "Тип:",
+        "value": "HDD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 693,
+    "fields": {
+        "product": 82,
+        "name": "Тип:",
+        "value": "HDD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 694,
+    "fields": {
+        "product": 83,
+        "name": "Тип:",
+        "value": "HDD"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 695,
+    "fields": {
+        "product": 71,
+        "name": "Форм-фактор:",
+        "value": "M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 696,
+    "fields": {
+        "product": 72,
+        "name": "Форм-фактор:",
+        "value": "M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 697,
+    "fields": {
+        "product": 73,
+        "name": "Форм-фактор:",
+        "value": "M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 698,
+    "fields": {
+        "product": 74,
+        "name": "Форм-фактор:",
+        "value": "M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 699,
+    "fields": {
+        "product": 75,
+        "name": "Форм-фактор:",
+        "value": "M.2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 700,
+    "fields": {
+        "product": 76,
+        "name": "Форм-фактор:",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 701,
+    "fields": {
+        "product": 77,
+        "name": "Форм-фактор:",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 702,
+    "fields": {
+        "product": 78,
+        "name": "Форм-фактор:",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 703,
+    "fields": {
+        "product": 79,
+        "name": "Форм-фактор:",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 704,
+    "fields": {
+        "product": 80,
+        "name": "Форм-фактор:",
+        "value": "3.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 705,
+    "fields": {
+        "product": 81,
+        "name": "Форм-фактор:",
+        "value": "3.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 706,
+    "fields": {
+        "product": 82,
+        "name": "Форм-фактор:",
+        "value": "3.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 707,
+    "fields": {
+        "product": 83,
+        "name": "Форм-фактор:",
+        "value": "2.5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 708,
+    "fields": {
+        "product": 71,
+        "name": "Размер M.2:",
+        "value": "2280"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 709,
+    "fields": {
+        "product": 72,
+        "name": "Размер M.2:",
+        "value": "2280"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 710,
+    "fields": {
+        "product": 73,
+        "name": "Размер M.2:",
+        "value": "2280"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 711,
+    "fields": {
+        "product": 74,
+        "name": "Размер M.2:",
+        "value": "2280"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 712,
+    "fields": {
+        "product": 75,
+        "name": "Размер M.2:",
+        "value": "2280"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 713,
+    "fields": {
+        "product": 71,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 714,
+    "fields": {
+        "product": 72,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 715,
+    "fields": {
+        "product": 73,
+        "name": "Объём накопителя:",
+        "value": "500 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 716,
+    "fields": {
+        "product": 74,
+        "name": "Объём накопителя:",
+        "value": "1024 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 717,
+    "fields": {
+        "product": 75,
+        "name": "Объём накопителя:",
+        "value": "1024 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 718,
+    "fields": {
+        "product": 76,
+        "name": "Объём накопителя:",
+        "value": "500 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 719,
+    "fields": {
+        "product": 77,
+        "name": "Объём накопителя:",
+        "value": "500 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 720,
+    "fields": {
+        "product": 78,
+        "name": "Объём накопителя:",
+        "value": "480 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 721,
+    "fields": {
+        "product": 79,
+        "name": "Объём накопителя:",
+        "value": "512 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 722,
+    "fields": {
+        "product": 80,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 723,
+    "fields": {
+        "product": 81,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 724,
+    "fields": {
+        "product": 82,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 725,
+    "fields": {
+        "product": 83,
+        "name": "Объём накопителя:",
+        "value": "1000 Гб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 726,
+    "fields": {
+        "product": 71,
+        "name": "Интерфейс:",
+        "value": "PCI-E 4.0 x4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 727,
+    "fields": {
+        "product": 72,
+        "name": "Интерфейс:",
+        "value": "PCI-E 4.0 x4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 728,
+    "fields": {
+        "product": 73,
+        "name": "Интерфейс:",
+        "value": "PCI-E 4.0 x4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 729,
+    "fields": {
+        "product": 74,
+        "name": "Интерфейс:",
+        "value": "PCI-E 4.0 x4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 730,
+    "fields": {
+        "product": 75,
+        "name": "Интерфейс:",
+        "value": "PCI-E 4.0 x4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 731,
+    "fields": {
+        "product": 76,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 732,
+    "fields": {
+        "product": 77,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 733,
+    "fields": {
+        "product": 78,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 734,
+    "fields": {
+        "product": 79,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 735,
+    "fields": {
+        "product": 80,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 736,
+    "fields": {
+        "product": 81,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 737,
+    "fields": {
+        "product": 82,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 738,
+    "fields": {
+        "product": 83,
+        "name": "Интерфейс:",
+        "value": "SATA-III"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 739,
+    "fields": {
+        "product": 80,
+        "name": "Скорость вращения шпинделя:",
+        "value": "7200 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 740,
+    "fields": {
+        "product": 81,
+        "name": "Скорость вращения шпинделя:",
+        "value": "7200 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 741,
+    "fields": {
+        "product": 82,
+        "name": "Скорость вращения шпинделя:",
+        "value": "5400 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 742,
+    "fields": {
+        "product": 83,
+        "name": "Скорость вращения шпинделя:",
+        "value": "7200 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 743,
+    "fields": {
+        "product": 80,
+        "name": "Объём буферной памяти:",
+        "value": "64 Мб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 744,
+    "fields": {
+        "product": 81,
+        "name": "Объём буферной памяти:",
+        "value": "256 Мб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 745,
+    "fields": {
+        "product": 82,
+        "name": "Объём буферной памяти:",
+        "value": "64 Мб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 746,
+    "fields": {
+        "product": 83,
+        "name": "Объём буферной памяти:",
+        "value": "64 Мб"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 747,
+    "fields": {
+        "product": 71,
+        "name": "Скорость чтения:",
+        "value": "7000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 748,
+    "fields": {
+        "product": 72,
+        "name": "Скорость чтения:",
+        "value": "7450 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 749,
+    "fields": {
+        "product": 73,
+        "name": "Скорость чтения:",
+        "value": "4000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 750,
+    "fields": {
+        "product": 74,
+        "name": "Скорость чтения:",
+        "value": "7000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 751,
+    "fields": {
+        "product": 75,
+        "name": "Скорость чтения:",
+        "value": "7000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 752,
+    "fields": {
+        "product": 76,
+        "name": "Скорость чтения:",
+        "value": "560 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 753,
+    "fields": {
+        "product": 77,
+        "name": "Скорость чтения:",
+        "value": "560 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 754,
+    "fields": {
+        "product": 78,
+        "name": "Скорость чтения:",
+        "value": "500 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 755,
+    "fields": {
+        "product": 79,
+        "name": "Скорость чтения:",
+        "value": "520 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 756,
+    "fields": {
+        "product": 71,
+        "name": "Скорость записи:",
+        "value": "4700 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 757,
+    "fields": {
+        "product": 72,
+        "name": "Скорость записи:",
+        "value": "6900 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 758,
+    "fields": {
+        "product": 73,
+        "name": "Скорость записи:",
+        "value": "3600 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 759,
+    "fields": {
+        "product": 74,
+        "name": "Скорость записи:",
+        "value": "6000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 760,
+    "fields": {
+        "product": 75,
+        "name": "Скорость записи:",
+        "value": "6000 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 761,
+    "fields": {
+        "product": 76,
+        "name": "Скорость записи:",
+        "value": "530 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 762,
+    "fields": {
+        "product": 77,
+        "name": "Скорость записи:",
+        "value": "510 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 763,
+    "fields": {
+        "product": 78,
+        "name": "Скорость записи:",
+        "value": "450 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 764,
+    "fields": {
+        "product": 79,
+        "name": "Скорость записи:",
+        "value": "450 МБ/сек"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 765,
+    "fields": {
+        "product": 71,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 766,
+    "fields": {
+        "product": 72,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 767,
+    "fields": {
+        "product": 73,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 768,
+    "fields": {
+        "product": 74,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 769,
+    "fields": {
+        "product": 75,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 770,
+    "fields": {
+        "product": 76,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 771,
+    "fields": {
+        "product": 77,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 772,
+    "fields": {
+        "product": 78,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 773,
+    "fields": {
+        "product": 79,
+        "name": "Тип флэш-памяти:",
+        "value": "TLC"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 774,
+    "fields": {
+        "product": 71,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "600 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 775,
+    "fields": {
+        "product": 72,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "600 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 776,
+    "fields": {
+        "product": 73,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "150 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 777,
+    "fields": {
+        "product": 74,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "800 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 778,
+    "fields": {
+        "product": 75,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "800 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 779,
+    "fields": {
+        "product": 76,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "200 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 780,
+    "fields": {
+        "product": 77,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "200 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 781,
+    "fields": {
+        "product": 78,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "190 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 782,
+    "fields": {
+        "product": 79,
+        "name": "Ресурс перезаписи (TBW)",
+        "value": "224 ТБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 783,
+    "fields": {
+        "product": 71,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 784,
+    "fields": {
+        "product": 72,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 785,
+    "fields": {
+        "product": 73,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 786,
+    "fields": {
+        "product": 74,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 787,
+    "fields": {
+        "product": 75,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 788,
+    "fields": {
+        "product": 76,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 789,
+    "fields": {
+        "product": 77,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 790,
+    "fields": {
+        "product": 78,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 791,
+    "fields": {
+        "product": 79,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 792,
+    "fields": {
+        "product": 80,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 793,
+    "fields": {
+        "product": 81,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 794,
+    "fields": {
+        "product": 82,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 795,
+    "fields": {
+        "product": 83,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 796,
+    "fields": {
+        "product": 116,
+        "name": "Мощность:",
+        "value": "750 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 797,
+    "fields": {
+        "product": 117,
+        "name": "Мощность:",
+        "value": "1000 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 798,
+    "fields": {
+        "product": 118,
+        "name": "Мощность:",
+        "value": "850 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 799,
+    "fields": {
+        "product": 119,
+        "name": "Мощность:",
+        "value": "850 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 800,
+    "fields": {
+        "product": 120,
+        "name": "Мощность:",
+        "value": "800 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 801,
+    "fields": {
+        "product": 121,
+        "name": "Мощность:",
+        "value": "750 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 802,
+    "fields": {
+        "product": 122,
+        "name": "Мощность:",
+        "value": "850 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 803,
+    "fields": {
+        "product": 123,
+        "name": "Мощность:",
+        "value": "850 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 804,
+    "fields": {
+        "product": 124,
+        "name": "Мощность:",
+        "value": "850 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 805,
+    "fields": {
+        "product": 125,
+        "name": "Мощность:",
+        "value": "750 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 806,
+    "fields": {
+        "product": 126,
+        "name": "Мощность:",
+        "value": "750 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 807,
+    "fields": {
+        "product": 116,
+        "name": "Стандарт:",
+        "value": "ATX12V 2.4"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 808,
+    "fields": {
+        "product": 117,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 809,
+    "fields": {
+        "product": 118,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 810,
+    "fields": {
+        "product": 119,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 811,
+    "fields": {
+        "product": 120,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 812,
+    "fields": {
+        "product": 121,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 813,
+    "fields": {
+        "product": 122,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 814,
+    "fields": {
+        "product": 123,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 815,
+    "fields": {
+        "product": 124,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.0"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 816,
+    "fields": {
+        "product": 125,
+        "name": "Стандарт:",
+        "value": "ATX12V 2.3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 817,
+    "fields": {
+        "product": 126,
+        "name": "Стандарт:",
+        "value": "ATX12V 3.1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 818,
+    "fields": {
+        "product": 116,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Standard"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 819,
+    "fields": {
+        "product": 117,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 820,
+    "fields": {
+        "product": 118,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 821,
+    "fields": {
+        "product": 119,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 822,
+    "fields": {
+        "product": 120,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Bronze"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 823,
+    "fields": {
+        "product": 121,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 824,
+    "fields": {
+        "product": 122,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 825,
+    "fields": {
+        "product": 123,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 826,
+    "fields": {
+        "product": 124,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 827,
+    "fields": {
+        "product": 125,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Bronze"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 828,
+    "fields": {
+        "product": 126,
+        "name": "Сертификат 80 PLUS:",
+        "value": "Gold"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 829,
+    "fields": {
+        "product": 116,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 830,
+    "fields": {
+        "product": 117,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 831,
+    "fields": {
+        "product": 118,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 832,
+    "fields": {
+        "product": 119,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 833,
+    "fields": {
+        "product": 120,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 834,
+    "fields": {
+        "product": 121,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 835,
+    "fields": {
+        "product": 122,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 836,
+    "fields": {
+        "product": 123,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 837,
+    "fields": {
+        "product": 124,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 838,
+    "fields": {
+        "product": 125,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 839,
+    "fields": {
+        "product": 126,
+        "name": "Отстёгивающиеся кабели:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 840,
+    "fields": {
+        "product": 116,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 841,
+    "fields": {
+        "product": 117,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 842,
+    "fields": {
+        "product": 118,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 843,
+    "fields": {
+        "product": 119,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 844,
+    "fields": {
+        "product": 120,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 845,
+    "fields": {
+        "product": 121,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 846,
+    "fields": {
+        "product": 122,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 847,
+    "fields": {
+        "product": 123,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 848,
+    "fields": {
+        "product": 124,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 849,
+    "fields": {
+        "product": 125,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 850,
+    "fields": {
+        "product": 126,
+        "name": "PFC:",
+        "value": "активный"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 851,
+    "fields": {
+        "product": 116,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 852,
+    "fields": {
+        "product": 117,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 853,
+    "fields": {
+        "product": 118,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 854,
+    "fields": {
+        "product": 119,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 855,
+    "fields": {
+        "product": 120,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 856,
+    "fields": {
+        "product": 121,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 857,
+    "fields": {
+        "product": 122,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 858,
+    "fields": {
+        "product": 123,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 859,
+    "fields": {
+        "product": 124,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 860,
+    "fields": {
+        "product": 125,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 861,
+    "fields": {
+        "product": 126,
+        "name": "Защита от перенапряжения",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 862,
+    "fields": {
+        "product": 116,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 863,
+    "fields": {
+        "product": 117,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 864,
+    "fields": {
+        "product": 118,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 865,
+    "fields": {
+        "product": 119,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 866,
+    "fields": {
+        "product": 120,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 867,
+    "fields": {
+        "product": 121,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 868,
+    "fields": {
+        "product": 122,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 869,
+    "fields": {
+        "product": 123,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 870,
+    "fields": {
+        "product": 124,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 871,
+    "fields": {
+        "product": 125,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 872,
+    "fields": {
+        "product": 126,
+        "name": "Защита от перегрузки",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 873,
+    "fields": {
+        "product": 116,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 874,
+    "fields": {
+        "product": 117,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 875,
+    "fields": {
+        "product": 118,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 876,
+    "fields": {
+        "product": 119,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 877,
+    "fields": {
+        "product": 120,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 878,
+    "fields": {
+        "product": 121,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 879,
+    "fields": {
+        "product": 122,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 880,
+    "fields": {
+        "product": 123,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 881,
+    "fields": {
+        "product": 124,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 882,
+    "fields": {
+        "product": 125,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 883,
+    "fields": {
+        "product": 126,
+        "name": "Защита от короткого замыкания",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 884,
+    "fields": {
+        "product": 116,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "55 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 885,
+    "fields": {
+        "product": 117,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "61 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 886,
+    "fields": {
+        "product": 118,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "61 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 887,
+    "fields": {
+        "product": 119,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "55 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 888,
+    "fields": {
+        "product": 120,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "61 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 889,
+    "fields": {
+        "product": 121,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "60 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 890,
+    "fields": {
+        "product": 122,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "65 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 891,
+    "fields": {
+        "product": 123,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "55 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 892,
+    "fields": {
+        "product": 124,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "65 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 893,
+    "fields": {
+        "product": 125,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "60 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 894,
+    "fields": {
+        "product": 126,
+        "name": "Длина кабеля питания материнской платы",
+        "value": "55 см"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 895,
+    "fields": {
+        "product": 116,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 896,
+    "fields": {
+        "product": 117,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 897,
+    "fields": {
+        "product": 118,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 898,
+    "fields": {
+        "product": 119,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 899,
+    "fields": {
+        "product": 120,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 900,
+    "fields": {
+        "product": 121,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 901,
+    "fields": {
+        "product": 122,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 902,
+    "fields": {
+        "product": 123,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 903,
+    "fields": {
+        "product": 124,
+        "name": "Гарантия",
+        "value": "36 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 904,
+    "fields": {
+        "product": 125,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 905,
+    "fields": {
+        "product": 126,
+        "name": "Гарантия",
+        "value": "24 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 906,
+    "fields": {
+        "product": 95,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 907,
+    "fields": {
+        "product": 96,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 908,
+    "fields": {
+        "product": 97,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 909,
+    "fields": {
+        "product": 98,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 910,
+    "fields": {
+        "product": 99,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 911,
+    "fields": {
+        "product": 100,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 912,
+    "fields": {
+        "product": 101,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 913,
+    "fields": {
+        "product": 102,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 914,
+    "fields": {
+        "product": 103,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 915,
+    "fields": {
+        "product": 104,
+        "name": "Типоразмер:",
+        "value": "Midi-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 916,
+    "fields": {
+        "product": 105,
+        "name": "Типоразмер:",
+        "value": "Mini-Tower"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 917,
+    "fields": {
+        "product": 95,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 918,
+    "fields": {
+        "product": 96,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 919,
+    "fields": {
+        "product": 97,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 920,
+    "fields": {
+        "product": 98,
+        "name": "Форм-фактор:",
+        "value": "E-ATX, ATX, mATX, Mini-ITX, SSI CEB"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 921,
+    "fields": {
+        "product": 99,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 922,
+    "fields": {
+        "product": 100,
+        "name": "Форм-фактор:",
+        "value": "E-ATX, ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 923,
+    "fields": {
+        "product": 101,
+        "name": "Форм-фактор:",
+        "value": "E-ATX, ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 924,
+    "fields": {
+        "product": 102,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 925,
+    "fields": {
+        "product": 103,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 926,
+    "fields": {
+        "product": 104,
+        "name": "Форм-фактор:",
+        "value": "ATX, mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 927,
+    "fields": {
+        "product": 105,
+        "name": "Форм-фактор:",
+        "value": "mATX, Mini-ITX"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 928,
+    "fields": {
+        "product": 95,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 929,
+    "fields": {
+        "product": 96,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 930,
+    "fields": {
+        "product": 97,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 931,
+    "fields": {
+        "product": 98,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 932,
+    "fields": {
+        "product": 99,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 933,
+    "fields": {
+        "product": 100,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 934,
+    "fields": {
+        "product": 101,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 935,
+    "fields": {
+        "product": 102,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 936,
+    "fields": {
+        "product": 103,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 937,
+    "fields": {
+        "product": 104,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 938,
+    "fields": {
+        "product": 105,
+        "name": "Наличие окна на боковой стенке:",
+        "value": "Да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 939,
+    "fields": {
+        "product": 95,
+        "name": "Максимальная длина видеокарты:",
+        "value": "410 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 940,
+    "fields": {
+        "product": 96,
+        "name": "Максимальная длина видеокарты:",
+        "value": "315 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 941,
+    "fields": {
+        "product": 97,
+        "name": "Максимальная длина видеокарты:",
+        "value": "280 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 942,
+    "fields": {
+        "product": 98,
+        "name": "Максимальная длина видеокарты:",
+        "value": "390 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 943,
+    "fields": {
+        "product": 99,
+        "name": "Максимальная длина видеокарты:",
+        "value": "395 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 944,
+    "fields": {
+        "product": 100,
+        "name": "Максимальная длина видеокарты:",
+        "value": "392 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 945,
+    "fields": {
+        "product": 101,
+        "name": "Максимальная длина видеокарты:",
+        "value": "460 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 946,
+    "fields": {
+        "product": 102,
+        "name": "Максимальная длина видеокарты:",
+        "value": "370 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 947,
+    "fields": {
+        "product": 103,
+        "name": "Максимальная длина видеокарты:",
+        "value": "410 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 948,
+    "fields": {
+        "product": 104,
+        "name": "Максимальная длина видеокарты:",
+        "value": "305 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 949,
+    "fields": {
+        "product": 105,
+        "name": "Максимальная длина видеокарты:",
+        "value": "280 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 950,
+    "fields": {
+        "product": 95,
+        "name": "Максимальная высота кулера:",
+        "value": "155 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 951,
+    "fields": {
+        "product": 96,
+        "name": "Максимальная высота кулера:",
+        "value": "163 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 952,
+    "fields": {
+        "product": 97,
+        "name": "Максимальная высота кулера:",
+        "value": "165 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 953,
+    "fields": {
+        "product": 98,
+        "name": "Максимальная высота кулера:",
+        "value": "190 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 954,
+    "fields": {
+        "product": 99,
+        "name": "Максимальная высота кулера:",
+        "value": "173 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 955,
+    "fields": {
+        "product": 100,
+        "name": "Максимальная высота кулера:",
+        "value": "180.5 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 956,
+    "fields": {
+        "product": 101,
+        "name": "Максимальная высота кулера:",
+        "value": "180 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 957,
+    "fields": {
+        "product": 102,
+        "name": "Максимальная высота кулера:",
+        "value": "165 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 958,
+    "fields": {
+        "product": 103,
+        "name": "Максимальная высота кулера:",
+        "value": "175 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 959,
+    "fields": {
+        "product": 104,
+        "name": "Максимальная высота кулера:",
+        "value": "160 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 960,
+    "fields": {
+        "product": 105,
+        "name": "Максимальная высота кулера:",
+        "value": "150 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 961,
+    "fields": {
+        "product": 95,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "USB 2.0, 2 x USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 962,
+    "fields": {
+        "product": 96,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 2.0, USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 963,
+    "fields": {
+        "product": 97,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 2.0, USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 964,
+    "fields": {
+        "product": 98,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "USB 2.0, 2 x USB 3.0, USB Type-C, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 965,
+    "fields": {
+        "product": 99,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 3.0, USB Type-C, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 966,
+    "fields": {
+        "product": 100,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 3.0, USB Type-C, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 967,
+    "fields": {
+        "product": 101,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 3.0, USB Type-C, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 968,
+    "fields": {
+        "product": 102,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 969,
+    "fields": {
+        "product": 103,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 3.0, USB Type-C, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 970,
+    "fields": {
+        "product": 104,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 2.0, USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 971,
+    "fields": {
+        "product": 105,
+        "name": "Интерфейсы на лицевой панели",
+        "value": "2 x USB 2.0, USB 3.0, аудио"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 972,
+    "fields": {
+        "product": 95,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 973,
+    "fields": {
+        "product": 96,
+        "name": "Подсветка корпуса:",
+        "value": "нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 974,
+    "fields": {
+        "product": 97,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 975,
+    "fields": {
+        "product": 98,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 976,
+    "fields": {
+        "product": 99,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 977,
+    "fields": {
+        "product": 100,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 978,
+    "fields": {
+        "product": 101,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 979,
+    "fields": {
+        "product": 102,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 980,
+    "fields": {
+        "product": 103,
+        "name": "Подсветка корпуса:",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 981,
+    "fields": {
+        "product": 104,
+        "name": "Подсветка корпуса:",
+        "value": "нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 982,
+    "fields": {
+        "product": 105,
+        "name": "Подсветка корпуса:",
+        "value": "нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 983,
+    "fields": {
+        "product": 95,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 984,
+    "fields": {
+        "product": 96,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 985,
+    "fields": {
+        "product": 97,
+        "name": "Вентиляторы в комплекте",
+        "value": "нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 986,
+    "fields": {
+        "product": 98,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 987,
+    "fields": {
+        "product": 99,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 988,
+    "fields": {
+        "product": 100,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 989,
+    "fields": {
+        "product": 101,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 990,
+    "fields": {
+        "product": 102,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 991,
+    "fields": {
+        "product": 103,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 992,
+    "fields": {
+        "product": 104,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 993,
+    "fields": {
+        "product": 105,
+        "name": "Вентиляторы в комплекте",
+        "value": "да"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 994,
+    "fields": {
+        "product": 96,
+        "name": "Передняя панель",
+        "value": "3 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 995,
+    "fields": {
+        "product": 97,
+        "name": "Передняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 996,
+    "fields": {
+        "product": 98,
+        "name": "Передняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 997,
+    "fields": {
+        "product": 99,
+        "name": "Передняя панель",
+        "value": "3 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 998,
+    "fields": {
+        "product": 100,
+        "name": "Передняя панель",
+        "value": "2 x 160 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 999,
+    "fields": {
+        "product": 102,
+        "name": "Передняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1000,
+    "fields": {
+        "product": 104,
+        "name": "Передняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1001,
+    "fields": {
+        "product": 105,
+        "name": "Передняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1002,
+    "fields": {
+        "product": 95,
+        "name": "Боковая панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1003,
+    "fields": {
+        "product": 97,
+        "name": "Боковая панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1004,
+    "fields": {
+        "product": 99,
+        "name": "Боковая панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1005,
+    "fields": {
+        "product": 101,
+        "name": "Боковая панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1006,
+    "fields": {
+        "product": 103,
+        "name": "Боковая панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1007,
+    "fields": {
+        "product": 95,
+        "name": "Верхняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1008,
+    "fields": {
+        "product": 96,
+        "name": "Верхняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1009,
+    "fields": {
+        "product": 98,
+        "name": "Верхняя панель",
+        "value": "2 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1010,
+    "fields": {
+        "product": 99,
+        "name": "Верхняя панель",
+        "value": "2 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1011,
+    "fields": {
+        "product": 100,
+        "name": "Верхняя панель",
+        "value": "2 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1012,
+    "fields": {
+        "product": 101,
+        "name": "Верхняя панель",
+        "value": "3 x 120 мм или 3 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1013,
+    "fields": {
+        "product": 102,
+        "name": "Верхняя панель",
+        "value": "2 x 120 мм или 2 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1014,
+    "fields": {
+        "product": 103,
+        "name": "Верхняя панель",
+        "value": "2 x 140 мм или 3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1015,
+    "fields": {
+        "product": 104,
+        "name": "Верхняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1016,
+    "fields": {
+        "product": 95,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1017,
+    "fields": {
+        "product": 96,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1018,
+    "fields": {
+        "product": 98,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1019,
+    "fields": {
+        "product": 100,
+        "name": "Задняя панель",
+        "value": "140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1020,
+    "fields": {
+        "product": 101,
+        "name": "Задняя панель",
+        "value": "140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1021,
+    "fields": {
+        "product": 102,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1022,
+    "fields": {
+        "product": 103,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1023,
+    "fields": {
+        "product": 104,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1024,
+    "fields": {
+        "product": 105,
+        "name": "Задняя панель",
+        "value": "120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1025,
+    "fields": {
+        "product": 95,
+        "name": "Нижняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1026,
+    "fields": {
+        "product": 98,
+        "name": "Нижняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1027,
+    "fields": {
+        "product": 99,
+        "name": "Нижняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1028,
+    "fields": {
+        "product": 100,
+        "name": "Нижняя панель",
+        "value": "2 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1029,
+    "fields": {
+        "product": 101,
+        "name": "Нижняя панель",
+        "value": "3 x 140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1030,
+    "fields": {
+        "product": 102,
+        "name": "Нижняя панель",
+        "value": "2 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1031,
+    "fields": {
+        "product": 103,
+        "name": "Нижняя панель",
+        "value": "3 x 120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1032,
+    "fields": {
+        "product": 95,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1033,
+    "fields": {
+        "product": 96,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1034,
+    "fields": {
+        "product": 97,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1035,
+    "fields": {
+        "product": 98,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1036,
+    "fields": {
+        "product": 99,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1037,
+    "fields": {
+        "product": 100,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1038,
+    "fields": {
+        "product": 101,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1039,
+    "fields": {
+        "product": 102,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1040,
+    "fields": {
+        "product": 103,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1041,
+    "fields": {
+        "product": 104,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1042,
+    "fields": {
+        "product": 105,
+        "name": "Гарантия",
+        "value": "12 мес."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1043,
+    "fields": {
+        "product": 106,
+        "name": "Система охлаждения:",
+        "value": "Жидкостная"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1044,
+    "fields": {
+        "product": 107,
+        "name": "Система охлаждения:",
+        "value": "Жидкостная"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1045,
+    "fields": {
+        "product": 108,
+        "name": "Система охлаждения:",
+        "value": "Жидкостная"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1046,
+    "fields": {
+        "product": 109,
+        "name": "Система охлаждения:",
+        "value": "Жидкостная"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1047,
+    "fields": {
+        "product": 110,
+        "name": "Система охлаждения:",
+        "value": "Жидкостная"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1048,
+    "fields": {
+        "product": 111,
+        "name": "Система охлаждения:",
+        "value": "Воздушное"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1049,
+    "fields": {
+        "product": 112,
+        "name": "Система охлаждения:",
+        "value": "Воздушное"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1050,
+    "fields": {
+        "product": 113,
+        "name": "Система охлаждения:",
+        "value": "Воздушное"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1051,
+    "fields": {
+        "product": 114,
+        "name": "Система охлаждения:",
+        "value": "Воздушное"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1052,
+    "fields": {
+        "product": 115,
+        "name": "Система охлаждения:",
+        "value": "Воздушное"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1053,
+    "fields": {
+        "product": 106,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1054,
+    "fields": {
+        "product": 107,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, LGA 2011, 2011-3, LGA 2066, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1055,
+    "fields": {
+        "product": 108,
+        "name": "Socket:",
+        "value": "LGA 1700, 1851, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1056,
+    "fields": {
+        "product": 109,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1057,
+    "fields": {
+        "product": 110,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, LGA 2011, 2011-3, LGA 2066, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1058,
+    "fields": {
+        "product": 111,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1059,
+    "fields": {
+        "product": 112,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, LGA 2011, 2011-3, LGA 2066, AM2, AM2+, AM3, AM3+, AM4, AM5, FM1, FM2, FM2+"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1060,
+    "fields": {
+        "product": 113,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1061,
+    "fields": {
+        "product": 114,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, LGA 2011, 2011-3, LGA 2066, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1062,
+    "fields": {
+        "product": 115,
+        "name": "Socket:",
+        "value": "LGA 115x/1200, LGA 1700, 1851, AM3, AM4, AM5"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1063,
+    "fields": {
+        "product": 106,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1064,
+    "fields": {
+        "product": 107,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1065,
+    "fields": {
+        "product": 108,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1066,
+    "fields": {
+        "product": 109,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1067,
+    "fields": {
+        "product": 110,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1068,
+    "fields": {
+        "product": 111,
+        "name": "Количество вентиляторов:",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1069,
+    "fields": {
+        "product": 112,
+        "name": "Количество вентиляторов:",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1070,
+    "fields": {
+        "product": 113,
+        "name": "Количество вентиляторов:",
+        "value": "1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1071,
+    "fields": {
+        "product": 114,
+        "name": "Количество вентиляторов:",
+        "value": "2"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1072,
+    "fields": {
+        "product": 115,
+        "name": "Количество вентиляторов:",
+        "value": "1"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1073,
+    "fields": {
+        "product": 106,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1074,
+    "fields": {
+        "product": 107,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1075,
+    "fields": {
+        "product": 108,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1076,
+    "fields": {
+        "product": 109,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1077,
+    "fields": {
+        "product": 110,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1078,
+    "fields": {
+        "product": 111,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1079,
+    "fields": {
+        "product": 112,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1080,
+    "fields": {
+        "product": 113,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1081,
+    "fields": {
+        "product": 114,
+        "name": "Размеры вентилятора:",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1082,
+    "fields": {
+        "product": 115,
+        "name": "Размеры вентилятора:",
+        "value": "92x92 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1083,
+    "fields": {
+        "product": 106,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-2250 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1084,
+    "fields": {
+        "product": 107,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-1800 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1085,
+    "fields": {
+        "product": 108,
+        "name": "Скорость вращения вентилятора:",
+        "value": "200-2000 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1086,
+    "fields": {
+        "product": 109,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-2100 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1087,
+    "fields": {
+        "product": 110,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-1500 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1088,
+    "fields": {
+        "product": 111,
+        "name": "Скорость вращения вентилятора:",
+        "value": "300-2000 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1089,
+    "fields": {
+        "product": 112,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-1850 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1090,
+    "fields": {
+        "product": 113,
+        "name": "Скорость вращения вентилятора:",
+        "value": "600-1500 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1091,
+    "fields": {
+        "product": 114,
+        "name": "Скорость вращения вентилятора:",
+        "value": "500-1550 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1092,
+    "fields": {
+        "product": 115,
+        "name": "Скорость вращения вентилятора:",
+        "value": "800-2000 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1093,
+    "fields": {
+        "product": 106,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "300 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1094,
+    "fields": {
+        "product": 107,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "350 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1095,
+    "fields": {
+        "product": 108,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "300 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1096,
+    "fields": {
+        "product": 109,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "300 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1097,
+    "fields": {
+        "product": 110,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "300 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1098,
+    "fields": {
+        "product": 111,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "260 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1099,
+    "fields": {
+        "product": 112,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "260 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1100,
+    "fields": {
+        "product": 113,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "220 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1101,
+    "fields": {
+        "product": 114,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "240 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1102,
+    "fields": {
+        "product": 115,
+        "name": "Максимальная рассеиваемая мощность:",
+        "value": "150 Вт"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1103,
+    "fields": {
+        "product": 106,
+        "name": "Уровень шума вентилятора",
+        "value": "32.9 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1104,
+    "fields": {
+        "product": 107,
+        "name": "Уровень шума вентилятора",
+        "value": "35.2 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1105,
+    "fields": {
+        "product": 108,
+        "name": "Уровень шума вентилятора",
+        "value": "33.9 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1106,
+    "fields": {
+        "product": 109,
+        "name": "Уровень шума вентилятора",
+        "value": "31.5 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1107,
+    "fields": {
+        "product": 110,
+        "name": "Уровень шума вентилятора",
+        "value": "25.6 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1108,
+    "fields": {
+        "product": 111,
+        "name": "Уровень шума вентилятора",
+        "value": "27.2 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1109,
+    "fields": {
+        "product": 112,
+        "name": "Уровень шума вентилятора",
+        "value": "28 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1110,
+    "fields": {
+        "product": 113,
+        "name": "Уровень шума вентилятора",
+        "value": "28.9 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1111,
+    "fields": {
+        "product": 114,
+        "name": "Уровень шума вентилятора",
+        "value": "25.6 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1112,
+    "fields": {
+        "product": 115,
+        "name": "Уровень шума вентилятора",
+        "value": "29 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1113,
+    "fields": {
+        "product": 106,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1114,
+    "fields": {
+        "product": 107,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1115,
+    "fields": {
+        "product": 108,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1116,
+    "fields": {
+        "product": 109,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1117,
+    "fields": {
+        "product": 110,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1118,
+    "fields": {
+        "product": 111,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1119,
+    "fields": {
+        "product": 112,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1120,
+    "fields": {
+        "product": 113,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1121,
+    "fields": {
+        "product": 114,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1122,
+    "fields": {
+        "product": 115,
+        "name": "Тип подключения",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1123,
+    "fields": {
+        "product": 106,
+        "name": "Уровень шума помпы",
+        "value": "17.8 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1124,
+    "fields": {
+        "product": 107,
+        "name": "Уровень шума помпы",
+        "value": "25 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1125,
+    "fields": {
+        "product": 108,
+        "name": "Уровень шума помпы",
+        "value": "20 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1126,
+    "fields": {
+        "product": 109,
+        "name": "Уровень шума помпы",
+        "value": "25 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1127,
+    "fields": {
+        "product": 110,
+        "name": "Уровень шума помпы",
+        "value": "23 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1128,
+    "fields": {
+        "product": 106,
+        "name": "Монтажный размер радиатора",
+        "value": "360 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1129,
+    "fields": {
+        "product": 107,
+        "name": "Монтажный размер радиатора",
+        "value": "360 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1130,
+    "fields": {
+        "product": 108,
+        "name": "Монтажный размер радиатора",
+        "value": "360 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1131,
+    "fields": {
+        "product": 109,
+        "name": "Монтажный размер радиатора",
+        "value": "360 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1132,
+    "fields": {
+        "product": 110,
+        "name": "Монтажный размер радиатора",
+        "value": "360 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1133,
+    "fields": {
+        "product": 111,
+        "name": "Высота кулера:",
+        "value": "157 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1134,
+    "fields": {
+        "product": 112,
+        "name": "Высота кулера:",
+        "value": "160 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1135,
+    "fields": {
+        "product": 113,
+        "name": "Высота кулера:",
+        "value": "151 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1136,
+    "fields": {
+        "product": 114,
+        "name": "Высота кулера:",
+        "value": "157 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1137,
+    "fields": {
+        "product": 115,
+        "name": "Высота кулера:",
+        "value": "135 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1138,
+    "fields": {
+        "product": 111,
+        "name": "Тепловые трубки:",
+        "value": "6 шт."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1139,
+    "fields": {
+        "product": 112,
+        "name": "Тепловые трубки:",
+        "value": "6 шт."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1140,
+    "fields": {
+        "product": 113,
+        "name": "Тепловые трубки:",
+        "value": "4 шт."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1141,
+    "fields": {
+        "product": 114,
+        "name": "Тепловые трубки:",
+        "value": "6 шт."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1142,
+    "fields": {
+        "product": 115,
+        "name": "Тепловые трубки:",
+        "value": "3 шт."
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1143,
+    "fields": {
+        "product": 127,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1144,
+    "fields": {
+        "product": 128,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1145,
+    "fields": {
+        "product": 129,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1146,
+    "fields": {
+        "product": 130,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1147,
+    "fields": {
+        "product": 131,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1148,
+    "fields": {
+        "product": 132,
+        "name": "Количество вентиляторов:",
+        "value": "3"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1149,
+    "fields": {
+        "product": 127,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1150,
+    "fields": {
+        "product": 128,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1151,
+    "fields": {
+        "product": 129,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "140x140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1152,
+    "fields": {
+        "product": 130,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "140x140 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1153,
+    "fields": {
+        "product": 131,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1154,
+    "fields": {
+        "product": 132,
+        "name": "Размеры вентилятора (ДхШ):",
+        "value": "120x120 мм"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1155,
+    "fields": {
+        "product": 127,
+        "name": "Скорость вращения:",
+        "value": "300-2000 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1156,
+    "fields": {
+        "product": 128,
+        "name": "Скорость вращения:",
+        "value": "300-2000 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1157,
+    "fields": {
+        "product": 129,
+        "name": "Скорость вращения:",
+        "value": "400-2100 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1158,
+    "fields": {
+        "product": 130,
+        "name": "Скорость вращения:",
+        "value": "400-1650 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1159,
+    "fields": {
+        "product": 131,
+        "name": "Скорость вращения:",
+        "value": "800-1900 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1160,
+    "fields": {
+        "product": 132,
+        "name": "Скорость вращения:",
+        "value": "400-2050 об/мин"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1161,
+    "fields": {
+        "product": 127,
+        "name": "Воздушный поток:",
+        "value": "58 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1162,
+    "fields": {
+        "product": 128,
+        "name": "Воздушный поток:",
+        "value": "58 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1163,
+    "fields": {
+        "product": 129,
+        "name": "Воздушный поток:",
+        "value": "71.8 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1164,
+    "fields": {
+        "product": 130,
+        "name": "Воздушный поток:",
+        "value": "82.53 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1165,
+    "fields": {
+        "product": 131,
+        "name": "Воздушный поток:",
+        "value": "58.54 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1166,
+    "fields": {
+        "product": 132,
+        "name": "Воздушный поток:",
+        "value": "64.2 CFM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1167,
+    "fields": {
+        "product": 127,
+        "name": "Уровень шума:",
+        "value": "27.2 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1168,
+    "fields": {
+        "product": 128,
+        "name": "Уровень шума:",
+        "value": "27.2 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1169,
+    "fields": {
+        "product": 129,
+        "name": "Уровень шума:",
+        "value": "34 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1170,
+    "fields": {
+        "product": 130,
+        "name": "Уровень шума:",
+        "value": "25.2 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1171,
+    "fields": {
+        "product": 131,
+        "name": "Уровень шума:",
+        "value": "31 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1172,
+    "fields": {
+        "product": 132,
+        "name": "Уровень шума:",
+        "value": "27.6 дБ"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1173,
+    "fields": {
+        "product": 127,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1174,
+    "fields": {
+        "product": 128,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1175,
+    "fields": {
+        "product": 129,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1176,
+    "fields": {
+        "product": 130,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1177,
+    "fields": {
+        "product": 131,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1178,
+    "fields": {
+        "product": 132,
+        "name": "Тип коннектора:",
+        "value": "4-pin PWM"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1179,
+    "fields": {
+        "product": 127,
+        "name": "Тип подсветки:",
+        "value": "ARGB (Addressable RGB)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1180,
+    "fields": {
+        "product": 128,
+        "name": "Тип подсветки:",
+        "value": "Нет"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1181,
+    "fields": {
+        "product": 129,
+        "name": "Тип подсветки:",
+        "value": "ARGB (Addressable RGB)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1182,
+    "fields": {
+        "product": 130,
+        "name": "Тип подсветки:",
+        "value": "ARGB (Addressable RGB)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1183,
+    "fields": {
+        "product": 131,
+        "name": "Тип подсветки:",
+        "value": "ARGB (Addressable RGB)"
+    }
+},
+{
+    "model": "products.productspecification",
+    "pk": 1184,
+    "fields": {
+        "product": 132,
+        "name": "Тип подсветки:",
+        "value": "Нет"
+    }
+}
+]

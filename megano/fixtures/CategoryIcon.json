@@ -1,0 +1,154 @@
+[
+{
+    "model": "catalog.categoryicon",
+    "pk": 1,
+    "fields": {
+        "src": "catalog/icons/CPU/cpu.png",
+        "category": 1
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 2,
+    "fields": {
+        "src": "catalog/icons/CPU/AMD/amd_nAuY8yA.png",
+        "category": 2
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 3,
+    "fields": {
+        "src": "catalog/icons/Материнская плата/motherboard.png",
+        "category": 3
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 4,
+    "fields": {
+        "src": "catalog/icons/Системы охлаждения компьютера/cooler.png",
+        "category": 4
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 5,
+    "fields": {
+        "src": "catalog/icons/Оперативная память/ram_0Mta2qN.png",
+        "category": 5
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 6,
+    "fields": {
+        "src": "catalog/icons/CPU/Intel/intel_YYQuNXo.png",
+        "category": 7
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 7,
+    "fields": {
+        "src": "catalog/icons/Видеокарта/Видеокарта Nvidia/nvidia.png",
+        "category": 11
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 8,
+    "fields": {
+        "src": "catalog/icons/Видеокарта/Видеокарта Intel/intel.png",
+        "category": 10
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 9,
+    "fields": {
+        "src": "catalog/icons/Видеокарта/Видеокарта amd/amd.png",
+        "category": 9
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 10,
+    "fields": {
+        "src": "catalog/icons/Видеокарта/gpu.png",
+        "category": 8
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 11,
+    "fields": {
+        "src": "catalog/icons/Блок питания/BP_0h0O2f3.png",
+        "category": 12
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 12,
+    "fields": {
+        "src": "catalog/icons/Корпуса/case.png",
+        "category": 13
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 13,
+    "fields": {
+        "src": "catalog/icons/Системы охлаждения процессора/СЖО/сжо.png",
+        "category": 15
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 14,
+    "fields": {
+        "src": "catalog/icons/Системы охлаждения процессора/СВО/сво.png",
+        "category": 16
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 15,
+    "fields": {
+        "src": "catalog/icons/Накопители/Накопитель.png",
+        "category": 17
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 16,
+    "fields": {
+        "src": "catalog/icons/Накопители/SSD M2/ssd_m2.png",
+        "category": 19
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 17,
+    "fields": {
+        "src": "catalog/icons/Накопители/SSD sata/ssd.png",
+        "category": 18
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 18,
+    "fields": {
+        "src": "catalog/icons/Накопители/HDD/hhd.png",
+        "category": 20
+    }
+},
+{
+    "model": "catalog.categoryicon",
+    "pk": 19,
+    "fields": {
+        "src": "catalog/icons/Вентиляторы для корпуса/cooler_pc.png",
+        "category": 21
+    }
+}
+]

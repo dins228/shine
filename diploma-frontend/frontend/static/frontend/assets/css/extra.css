@@ -2006,7 +2006,7 @@ a.Cart-title {
 }
 .Comment-date {
   color: #8f959f;
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 26px;
   text-transform: uppercase;
@@ -2032,7 +2032,7 @@ a.Cart-title {
 }
 .Comment-content {
   color: #71747a;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 1.5em;
 }

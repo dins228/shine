@@ -1,0 +1,192 @@
+[
+{
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+        "title": "CPU",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+        "title": "AMD",
+        "active": true,
+        "parent": 1,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+        "title": "Материнская плата",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 4,
+    "fields": {
+        "title": "Системы охлаждения",
+        "active": true,
+        "parent": null,
+        "favourite": true
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 5,
+    "fields": {
+        "title": "Оперативная память",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 7,
+    "fields": {
+        "title": "Intel",
+        "active": true,
+        "parent": 1,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 8,
+    "fields": {
+        "title": "Видеокарта",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 9,
+    "fields": {
+        "title": "Видеокарта amd",
+        "active": true,
+        "parent": 8,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 10,
+    "fields": {
+        "title": "Видеокарта Intel",
+        "active": true,
+        "parent": 8,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 11,
+    "fields": {
+        "title": "Видеокарта Nvidia",
+        "active": true,
+        "parent": 8,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 12,
+    "fields": {
+        "title": "Блок питания",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 13,
+    "fields": {
+        "title": "Корпуса",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 15,
+    "fields": {
+        "title": "Системы водяного охлаждения",
+        "active": true,
+        "parent": 4,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 16,
+    "fields": {
+        "title": "Кулеры для процессоров",
+        "active": true,
+        "parent": 4,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 17,
+    "fields": {
+        "title": "Накопители",
+        "active": true,
+        "parent": null,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 18,
+    "fields": {
+        "title": "SSD sata",
+        "active": true,
+        "parent": 17,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 19,
+    "fields": {
+        "title": "SSD M2",
+        "active": true,
+        "parent": 17,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 20,
+    "fields": {
+        "title": "HDD",
+        "active": true,
+        "parent": 17,
+        "favourite": false
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 21,
+    "fields": {
+        "title": "Вентиляторы для корпуса",
+        "active": true,
+        "parent": 4,
+        "favourite": false
+    }
+}
+]
