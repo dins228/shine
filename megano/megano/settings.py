@@ -20,20 +20,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'jZjW9ZPG0P8UnGgcmNtyP6abFe9AUuuL0pDdShgsW_f171bwQL2sjqlIUvOwQ0tjG-E'
+SECRET_KEY = 'jZjW9ZPG0P8UnGgcmNtyP6abFe9AUuuL0pDdShgsW_f171bwQL2sjqlIUvOwQ0tjG-E' # Создай новый ключ, на стэк оверфлоу есть гайд  
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-SECURE_HSTS_SECONDS = 31536000 
-SECURE_HSTS_INCLUDE_SUBDOMAINS = True  
-SECURE_HSTS_PRELOAD = True  
-SECURE_SSL_REDIRECT = True
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
+ALLOWED_HOSTS = []
 
-ALLOWED_HOSTS = ['176.108.252.79']
-# '176.108.249.90'
 
 
 # Application definition
@@ -89,14 +82,15 @@ WSGI_APPLICATION = 'megano.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+# Внеси свои данные от БД, если будешь использовать не postgresql, то поменяй 'ENGINE'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'shine',
-        'USER': 'dins',
-        'PASSWORD': 'dins',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
